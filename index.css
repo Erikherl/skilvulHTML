@@ -1,0 +1,14 @@
+img{
+    width: 300px;
+}
+
+h1{
+    color: aqua;
+    background-color: black;
+}
+
+.content {
+    display: flex;
+    background-color: aquamarine;
+    justify-content: space-between;
+}
